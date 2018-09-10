@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
       <title>
-Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant    </title>
+Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    </title>
 <meta name="description" content="Brian Alonzo Web Design is a full-service digital consultant providing web design, development, and digital marketing. I help build websites, optimize across all devices, generate leads, and increase revenue.">
 <meta name="keywords" content="cleveland web design,cleveland web development,cleveland seo,cleveland application development,cleveland website design,cleveland website development,cleveland web marketing,cleveland internet marketing">
 <meta name="author" content="brianalonzo.com - Cleveland, OH">
