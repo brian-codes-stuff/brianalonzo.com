@@ -1,5 +1,5 @@
 body {
-    background-image: url(../img/brian-alonzo-cleveland-web-design-background-35.jpg);
+    background-image: url(./img/brian-alonzo-cleveland-web-design-background-35.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     font-family: 'Open Sans', sans-serif;
@@ -15,6 +15,11 @@ h2 {
 
 h4 {
     text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
 }
 
 .thelist {
@@ -276,11 +281,11 @@ header {
 }
 
 .tagline .bottom {
-   font-family: 'Open Sans', sans-serif;
-    display: block;
-    margin: auto;
-    color: #4DA6FF;
-    font-size: 31px;
+   font-family: 'Montserrat', sans-serif;
+   display: block;
+   margin: auto;
+   color: #4DA6FF;
+   font-size: 31px;
 }
 
 .navbar {
@@ -301,6 +306,7 @@ ul.navbar-nav {
 li.nav-item {
     border-top: 1px solid #707070;
     padding: 20px 45px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 li.nav-item:hover {
@@ -310,6 +316,7 @@ li.nav-item:hover {
 
 li.nav-item a:hover {
     color:#fff;
+    /* font-family: 'Montserrat', sans-serif; */
 }
 
 li.nav-item:active {
@@ -532,6 +539,7 @@ ul.people  {
     position: relative;
     text-transform: capitalize;
     text-align: left;
+    font-family: 'Montserrat', sans-serif;
 }
 .our-services-text h4::before {
     background: #4DA6FF none repeat scroll 0 0;
