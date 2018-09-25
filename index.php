@@ -70,6 +70,9 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
               <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#web-design-clients">Client Testimonials</a>
             </li>
+               <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="https://web-design-blog.brianalonzo.com/">Web Design Blog</a>
+            </li>
           </ul>   
     </nav>
                <a class="sign-btn js-scroll-trigger" href="#connect">Let's Connect</a> 

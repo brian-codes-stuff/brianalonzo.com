@@ -54,15 +54,15 @@ ul li {list-style: none;
 }
 
 
-@media only screen and (max-height: 775px) {
+@media only screen and (max-height: 850px) {
 
     .logo img {
         
     }
 
     #sidebar ul.navbar-nav li.nav-item {
-        padding-top: 5px;
-        padding-bottom: 5px;
+        padding-top: 1px;
+        padding-bottom: 1px;
     }
 }
 
@@ -225,7 +225,9 @@ ul li {list-style: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 14px !important;
 }
-    
+    .sign-btn {
+        display: none;
+    }
 }
 
 #main {
@@ -581,4 +583,9 @@ p {
     height: auto;
     /* border: 2px solid #4DA6FF; */
     border-radius: 12px;
+}
+
+.blog-btn {
+    position: absolute;
+    float: right;
 }
