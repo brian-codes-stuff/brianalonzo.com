@@ -253,9 +253,9 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                       <div class="col-lg-6">
                          <p>Brian Alonzo speaks about himself in the third person on few occasions:
 <br><br>
-1.) Placing his order at a 
+1.) Placing his order at a restaurant.
 <br>
-2.) Narrating text for an ABOUT page
+2.) Narrating text for an ABOUT page.
 <br><br>
 He sincerely apologizes.
 <br><br>
