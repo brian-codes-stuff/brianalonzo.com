@@ -54,6 +54,10 @@ ul li {list-style: none;
 }
 
 
+ .mobile-nav {
+        display: none;
+}
+
 @media only screen and (max-height: 850px) {
 
     .logo img {
@@ -77,6 +81,8 @@ ul li {list-style: none;
     }
 }
 
+
+
 @media only screen and (max-width: 1060px) {
     #sidebar {
         float: none !important;
@@ -92,6 +98,10 @@ ul li {list-style: none;
     height: auto !important;
     margin-top: 0 !important;
     padding: 20px 0 !important;
+        width: 100%;
+        position: fixed;
+        top: 0px;
+        z-index: 2;
 }
     
     .tagline {
@@ -108,6 +118,7 @@ ul li {list-style: none;
     #main {
         width: 100% !important;
         float: none !important;
+        padding-top: 200px;
     }
     
     .navbar {
@@ -127,24 +138,29 @@ ul li {list-style: none;
     }
     
 #web-design-services {
-    margin-top: 50px !important;
+    margin-top: 250px !important;
+    padding-top: 120px !important; 
 }
 
 #web-design-projects {
-    margin-top: 20px !important;
+    margin-top: 120px !important;
+    padding-top: 120px !important;
 }
 
 #about {
-    margin-top: 20px !important;
+    margin-top: 120px !important; 
+    padding-top: 120px !important;
 }
 
 #web-design-clients {
-    margin-top: 20px !important;
+    margin-top: 120px !important;
+    padding-top: 120px !important;
 }
 
 #connect {
-    margin-top: 20px !important;
+    margin-top: 120px !important;
     margin-bottom: 50px !important;
+    padding-top: 120px !important;
 }
     
     .btn-link {
@@ -153,30 +169,99 @@ ul li {list-style: none;
     font-family: 'Montserrat', sans-serif;
     font-size: 16px !important;
 }
+    .logo {
+        width: 50% !important;
+        float: left;
+        display: none;
+    }
+    .logo img {
+        margin: 0px !important;
+    }
+    
+    .mobile-nav {
+        display: block !important;
+        float: right;
+        width: 100%; 
+    }
+    
+    #myLinks {
+        border-top: 1px solid #CCCCCC;
+    }
+    
+    /* Style the navigation menu */
+.topnav {
+  overflow: hidden;
+  background-color: transparent;
+  position: relative;
+}
+
+/* Hide the links inside the navigation menu (except for logo/home) */
+.topnav #myLinks {
+  display: none;
+}
+
+/* Style navigation menu links */
+.topnav a {
+  color: white;
+  padding: 14px 16px;
+  text-decoration: none;
+  text-align: inherit; 
+  font-size: 17px; 
+  display: block;
+}
+
+/* Style the hamburger menu */
+.topnav a.icon {
+  background: #4DA6FF;
+  display: block;
+  position: absolute;
+  right: 25px;
+  top: 0;
+}
+
+/* Add a grey background color on mouse-over */
+.topnav a:hover {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* Style the active link (or home/logo) */
+.active {
+  background-color: #4CAF50;
+  color: white;
+}
+    
+    .tagline {
+        display: none !important;
+    }
+    
+    .sign-btn {
+        display: none !important;
+    }
     
 }
 
 @media only screen and (max-width: 400px) {
     
      #web-design-services  {
-    margin-top: 40px !important;
+    margin-top: 140px !important;
 }
 
 #web-design-projects  {
-    margin-top: 40px !important;
+    margin-top: 140px !important;
 }
 
 #web-design-clients {
-    margin-top: 40px !important;
+    margin-top: 140px !important;
 }
 
 
 #about {
-    margin-top: 40px !important;
+    margin-top: 140px !important;
 }
 
 #connect {
-    margin-top: 40px !important;
+    margin-top: 140px !important;
     margin-bottom: 50px !important;
 }
     

@@ -43,6 +43,7 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
 </script>
   </head>
   <body>
+  <!-- Top Navigation Menu -->
 <div id="wrapper">
     <div id="sidebar">
         <header>
@@ -51,6 +52,27 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                       <div class="logo">
                           <a href="#home" class="js-scroll-trigger"><img src="img/brian-alonzo-web-design-logo-med.png" alt=""></a>
                       </div>
+                      <div class="mobile-nav">
+                      <div class="topnav">
+   <a href="#home" class="js-scroll-trigger"><img src="img/brian-alonzo-web-design-logo-med.png" alt=""></a>
+  <!-- Navigation links (hidden by default) -->
+  <div id="myLinks">
+     <a class="js-scroll-trigger" href="#web-design-services" onclick="myFunction2()">Web Design Services</a>
+        <a class="js-scroll-trigger" href="#web-design-projects" onclick="myFunction2()">Recent Projects</a>
+        <a class="js-scroll-trigger" href="#about" onclick="myFunction()">About Me</a>
+      <a class="js-scroll-trigger" href="#web-design-clients" onclick="myFunction2()">Client Testimonials</a>
+         <a class="js-scroll-trigger" href="https://web-design-blog.brianalonzo.com/" onclick="myFunction2()">Web Design Blog</a>
+          <a class="js-scroll-trigger" href="#connect" onclick="myFunction2()">Let's Connect</a>
+  </div>
+  <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+                   </div>
+                        
+                          
+
                       <div class="tagline">
                           <h1 class="top">Web Design</h1>
                          <div class="line"></div>
@@ -438,6 +460,21 @@ $(document).on('click', '[data-toggle="lightbox"]', function(event) {
                 event.preventDefault();
                 $(this).ekkoLightbox();
             });
+    </script>
+    <script>
+    function myFunction() {
+  var x = document.getElementById("myLinks");
+  if (x.style.display === "block") {
+    x.style.display = "none";
+  } else {
+    x.style.display = "block";
+  }
+}
+        
+        function myFunction2() {
+    document.getElementById('myLinks').style.cssText = 'display:none;';
+}
+        
     </script>
   </body>
 </html>
