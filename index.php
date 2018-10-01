@@ -57,12 +57,12 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
    <a href="#home" class="js-scroll-trigger"><img src="img/brian-alonzo-web-design-logo-med.png" alt=""></a>
   <!-- Navigation links (hidden by default) -->
   <div id="myLinks">
-     <a class="js-scroll-trigger" href="#web-design-services" onclick="myFunction2()">Web Design Services</a>
-        <a class="js-scroll-trigger" href="#web-design-projects" onclick="myFunction2()">Recent Projects</a>
-        <a class="js-scroll-trigger" href="#about" onclick="myFunction()">About Me</a>
-      <a class="js-scroll-trigger" href="#web-design-clients" onclick="myFunction2()">Client Testimonials</a>
-         <a class="js-scroll-trigger" href="https://web-design-blog.brianalonzo.com/" onclick="myFunction2()">Web Design Blog</a>
-          <a class="js-scroll-trigger" href="#connect" onclick="myFunction2()">Let's Connect</a>
+     <a class="js-scroll-trigger" href="#web-design-services" onclick="myFunction2()"><i class="fas fa-laptop-code"></i>&nbsp; Web Design Services</a>
+        <a class="js-scroll-trigger" href="#web-design-projects" onclick="myFunction2()"><i class="fas fa-th-large"></i>&nbsp; Recent Projects</a>
+        <a class="js-scroll-trigger" href="#about" onclick="myFunction()"><i class="fas fa-glasses"></i>&nbsp; About Me</a>
+      <a class="js-scroll-trigger" href="#web-design-clients" onclick="myFunction2()"><i class="fas fa-comments"></i>&nbsp; Client Testimonials</a>
+         <a class="js-scroll-trigger" href="https://web-design-blog.brianalonzo.com/" onclick="myFunction2()"><i class="fas fa-pen-fancy"></i>&nbsp; Web Design Blog</a>
+          <a class="js-scroll-trigger" href="#connect" onclick="myFunction2()"><i class="fas fa-handshake"></i>&nbsp; Let's Connect</a>
   </div>
   <!-- "Hamburger menu" / "Bar icon" to toggle the navigation links -->
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
@@ -81,23 +81,23 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                        <nav class="navbar" id="mainNav">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#web-design-services">Web Design Services</a>
+              <a class="nav-link js-scroll-trigger" href="#web-design-services"><i class="fas fa-laptop-code"></i>&nbsp; Web Design Services</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#web-design-projects">Recent Projects</a>
+              <a class="nav-link js-scroll-trigger" href="#web-design-projects"><i class="fas fa-th-large"></i>&nbsp; Recent Projects</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">About Me</a>
+              <a class="nav-link js-scroll-trigger" href="#about"><i class="fas fa-glasses"></i>&nbsp; About Me</a>
             </li>
               <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#web-design-clients">Client Testimonials</a>
+              <a class="nav-link js-scroll-trigger" href="#web-design-clients"><i class="fas fa-comments"></i>&nbsp; Client Testimonials</a>
             </li>
                <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="https://web-design-blog.brianalonzo.com/">Web Design Blog</a>
+              <a class="nav-link js-scroll-trigger" href="https://web-design-blog.brianalonzo.com/"><i class="fas fa-pen-fancy"></i>&nbsp; Web Design Blog</a>
             </li>
           </ul>   
     </nav>
-               <a class="sign-btn js-scroll-trigger" href="#connect">Let's Connect</a> 
+               <a class="sign-btn js-scroll-trigger" href="#connect"><i class="fas fa-handshake"></i>&nbsp; Let's Connect</a> 
                </div>
            </div>
         </header>
