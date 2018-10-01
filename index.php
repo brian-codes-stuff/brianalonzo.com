@@ -54,7 +54,7 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                       </div>
                       <div class="mobile-nav">
                       <div class="topnav">
-   <a href="#home" class="js-scroll-trigger"><img src="img/brian-alonzo-web-design-logo-med.png" alt=""></a>
+   <a href="#home" class="js-scroll-trigger"><img class="smallerLogo" src="img/brian-alonzo-web-design-logo-med.png" alt=""></a>
   <!-- Navigation links (hidden by default) -->
   <div id="myLinks">
      <a class="js-scroll-trigger" href="#web-design-services" onclick="myFunction2()"><i class="fas fa-laptop-code"></i>&nbsp; Web Design Services</a>

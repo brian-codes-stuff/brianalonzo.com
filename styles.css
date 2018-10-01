@@ -682,3 +682,7 @@ p {
     position: absolute;
     float: right;
 }
+
+.smallerLogo {
+    max-width: 72% !important;
+}
