@@ -104,6 +104,10 @@ ul li {list-style: none;
         z-index: 2;
 }
     
+    .top-nav img {
+        max-width: 72% !important;
+    }
+    
     .tagline {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
