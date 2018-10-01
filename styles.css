@@ -247,6 +247,10 @@ ul li {list-style: none;
 
 @media only screen and (max-width: 400px) {
     
+    .top-nav img {
+        max-width: 72% !important;
+    }
+    
      #web-design-services  {
     margin-top: 140px !important;
 }
