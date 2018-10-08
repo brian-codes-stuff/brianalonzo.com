@@ -266,7 +266,7 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                  <br>
                  <div class="row">
                      <div class="col-lg-6">
-                         <img class="pic" src="img/brian-alonzo-web-designer.png"/>
+                         <img class="pic" src="img/brian-alonzo-cleveland-web-designer.png"/>
                          <br>
                          <h3 class="center">Brian Alonzo</h3>
 <h5 class="center">
