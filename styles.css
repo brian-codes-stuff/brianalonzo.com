@@ -687,3 +687,8 @@ p {
 .smallerLogo {
     max-width: 72% !important;
 }
+
+.modal {
+  
+    z-index: 99999 !important;
+}
