@@ -108,6 +108,9 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
             <div class="row">
               <div class="col-lg-12 mx-auto">
                   <span class="main-title">I Am A Web Design Consultant.</span>
+                  <div class="video">
+                      <iframe src="https://player.vimeo.com/video/295618283" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+                  </div>
                   <a class="view js-scroll-trigger" href="#web-design-services">What Does That Mean?</a>
               </div>
               </div>
