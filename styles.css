@@ -692,3 +692,14 @@ p {
   
     z-index: 99999 !important;
 }
+
+#home {
+    padding: 0px 0px !important;
+}
+
+.video {
+    display: block;
+    text-align: center;
+    padding-bottom: 30px;
+    margin: auto;
+}
