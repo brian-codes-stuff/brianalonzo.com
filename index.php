@@ -239,7 +239,7 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                 <img src="img/cleveland-web-design-client-hearing-aids.jpg" class="img-fluid">
             </a>
             <a href="img/cleveland-web-design-client-peace.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-4">
-                <img src="img/cleveland-web-design-client-peace.jpg" class="img-fluid">
+                <img src="img/cleveland-web-design-clien-rmr.jpg" class="img-fluid">
             </a>
         </div>
         <div class="row" style="margin-top:35px;">
