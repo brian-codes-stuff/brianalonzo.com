@@ -273,7 +273,7 @@ Brian Alonzo - A Web Design, Development &amp; Digital Marketing Consultant.    
                          <br>
                          <h3 class="center">Brian Alonzo</h3>
 <h5 class="center">
-    Husband<br>Father<br>Web Designer/Developer <br>from Cleveland, Ohio.</h5>
+    Husband<br>Father<br>Web Marketing Professional <br>from Cleveland, Ohio.</h5>
                      </div>
                       <div class="col-lg-6">
                          <p>Brian Alonzo speaks about himself in the third person on few occasions:
